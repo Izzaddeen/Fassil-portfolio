@@ -166,7 +166,7 @@ body {
     font-family: "Lora", serif;
 }
 .about-bg1{
-    /* background-image: url("./images/Profile.jpg"); */
+    background-image: url("./images/Profile.jpg");
     height: 100%;
     width: 100%;
     background-position: bottom ;
